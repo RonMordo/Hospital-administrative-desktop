@@ -1,0 +1,21 @@
+[
+  {
+    "HospitalName": "Ron",
+    "DepartmentName": "Surgery",
+    "AmountOfDoctors": 0,
+    "AmountOfPetients": 0
+  },
+  {
+    "HospitalName": "r",
+    "DepartmentName": "Surgery",
+    "AmountOfDoctors": 0,
+    "AmountOfPetients": 0
+  },
+  {
+    "_siliconeAmount": 1,
+    "HospitalName": "t",
+    "DepartmentName": "Surgery Subdivision Plastic",
+    "AmountOfDoctors": 0,
+    "AmountOfPetients": 0
+  }
+]
