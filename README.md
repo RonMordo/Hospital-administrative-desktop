@@ -4,6 +4,17 @@ Project Overview 📋
 
 HospitalAdmin is a forward-thinking project dedicated to revolutionizing hospital management through the power of digital transformation. At its core, this desktop application leverages the robust capabilities of C# and the .NET framework, designed with an object-oriented approach to address the complex needs of hospital operations. HospitalAdmin aims to simplify administrative tasks, improve patient care management, and enhance operational efficiency across departments.
 
+# 📦 Installation
+
+To install, please download the installation zip file, extract it, and click setup.
+
+# 📋 Usage
+
+- To add a new department, click the "Add Department" button, fill out the form, and that's it.
+- To view all departments recorded in the system, click "View All Departments". Click again to hide.
+- To remove a department, select it in the "View Department" option and click "Remove".
+- To manage staff and patients in a specific department, select the department in the "View Department" option and click "Human Resources".
+
 Goals and Objectives 🎯
 
 	•	Streamlined Administration: Develop a comprehensive desktop application to manage patient records, appointments, and billing with ease and precision. 💼
